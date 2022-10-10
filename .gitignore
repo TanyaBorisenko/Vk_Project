@@ -1,0 +1,13 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+# Remainings from resolving conflicts in Source Control
+*.orig
+# NuGet Packages
+**/packages/
